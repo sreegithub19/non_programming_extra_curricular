@@ -1,0 +1,10 @@
+[submodule "Languages"]
+	path = Languages
+	url = https://github.com/sreegithub19/Languages.git
+	branch = main
+[submodule "Yoga"]
+	path = Yoga
+	url = https://github.com/sreegithub19/Yoga.git
+[submodule "drawings"]
+	path = drawings
+	url = https://github.com/sreegithub19/drawings
