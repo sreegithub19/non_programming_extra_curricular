@@ -5,6 +5,8 @@
 [submodule "Yoga"]
 	path = Yoga
 	url = https://github.com/sreegithub19/Yoga.git
+    branch = main
 [submodule "drawings"]
 	path = drawings
 	url = https://github.com/sreegithub19/drawings
+    branch = main
