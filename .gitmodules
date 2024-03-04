@@ -10,3 +10,7 @@
 	path = drawings
 	url = https://github.com/sreegithub19/drawings
     branch = main
+[submodule "music"]
+	path = music
+	url = https://github.com/sreegithub19/music.git
+	branch = main
