@@ -1,11 +1,10 @@
 # Contents
- - [Docker](#Docker) 
+ - [Docker in Windows](#Docker_in_Windows) 
+ - [Git submodules](#Git_submodules)
+ - [Miscellaneous links](#Miscellaneous_links)
 
- 
+## Docker_in_Windows
 
-## Docker
-
-Docker (in Windows):
 Reference:
 - https://www.sitepoint.com/docker-windows-10-home/
 - https://blog.jayway.com/2017/04/19/running-docker-on-bash-on-windows/
@@ -18,6 +17,8 @@ Reference:
     -   docker-machine create --driver virtualbox default (causing this error: VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED).)
 
 ################################################################################
+
+## Git_submodules
 
 1. To add a git repo as submodule in another repo (in that specific folder):
 git submodule add https://github.com/sreegithub19/vuejs_training.git
@@ -76,12 +77,9 @@ Windows long file name issue:
 1. Execute this command in Powershell (run as Administrator):  git config --system core.longpaths true
 
 ================================================================
+## Miscellaneous_links
 
-Youtube Channel content (in "Projects" playlist):
-https://studio.youtube.com/channel/UC-RGFZerA05PxdPGCBV9RTw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
-
-Video compressor: (10MB video size limit to upload videos directly onto Github)
-https://www.freeconvert.com/video-compressor
-
-Video splitter:
+1. Video splitter:
 https://split-video.com/
+
+================================================================
