@@ -1,3 +1,10 @@
+# Contents
+ - [Docker](#Docker) 
+
+ 
+
+## Docker
+
 Docker (in Windows):
 Reference:
 - https://www.sitepoint.com/docker-windows-10-home/
@@ -20,7 +27,7 @@ git submodule add https://github.com/sreegithub19/express_vercel_app.git
 git submodule add https://github.com/sreegithub19/vue_project.git
 git submodule add https://github.com/sreegithub19/JavaScript-Applications.git
 
-# reference: https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules
+###### reference: https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules
 2. To update all the submodules according to the latest remote repo changes:
 git submodule update --init --recursive
 git submodule update --recursive
