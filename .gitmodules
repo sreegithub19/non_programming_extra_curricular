@@ -14,3 +14,7 @@
 	path = music
 	url = https://github.com/sreegithub19/music.git
 	branch = main
+[submodule "driving_license"]
+	path = driving_license
+	url = https://github.com/sreegithub19/driving_license.git
+	branch = main
