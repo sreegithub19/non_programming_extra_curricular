@@ -2,6 +2,7 @@
  - [Docker in Windows](#Docker_in_Windows) 
  - [Git submodules](#Git_submodules)
  - [Miscellaneous links](#Miscellaneous_links)
+ - [Blood donation camp 2024](#Blood_donation_2024)
 
 ## Docker_in_Windows
 
@@ -81,5 +82,13 @@ Windows long file name issue:
 
 1. Video splitter:
 https://split-video.com/
+
+================================================================
+
+## Blood_donation_2024
+
+![0-02-03-640457ff254cb920aea5d62d834c6a7ee9be22709b34bbc638b42b4fd3ee5b19_1c6dbc2f8799e7](https://github.com/sreegithub19/extra_curricular/assets/55496113/44d0a35f-623b-433f-a32d-e3304a9fb857)
+
+
 
 ================================================================
