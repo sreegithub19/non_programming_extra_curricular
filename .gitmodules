@@ -22,3 +22,7 @@
 	path = films
 	url = https://github.com/sreegithub19/films.git
 	branch = main
+[submodule "marathons"]
+	path = marathons
+	url = https://github.com/sreegithub19/marathons.git
+	branch = main
