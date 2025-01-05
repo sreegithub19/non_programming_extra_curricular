@@ -26,3 +26,7 @@
 	path = marathons
 	url = https://github.com/sreegithub19/marathons.git
 	branch = main
+[submodule "discussions_"]
+	path = discussions_
+	url = https://github.com/sreegithub19/discussions_.git
+	branch = main
