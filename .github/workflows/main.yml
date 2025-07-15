@@ -1,4 +1,4 @@
-name: Git submodules sync
+name: Git submodules sync 
 
 on:
   push:
