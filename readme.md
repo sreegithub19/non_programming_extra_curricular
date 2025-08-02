@@ -102,3 +102,15 @@ https://split-video.com/
 
 
 ================================================================
+
+## Health (medicine)
+
+### Constipation
+- Dulcoflex (Tablet)
+- Kayam Churna (Powder and Tablets)
+- Pantoprazole (Tablet)
+- Pantodac (Tablet)
+- Pet Safa (Powder)
+- Cremaffin (Syrup)
+- Castor oil (Syrup)
+- Sompraz D (Tablet)
